@@ -4,12 +4,12 @@
  A structual design of HTML5.
  ```html
  - <!DOCTYPE html>```
- - ```<meta charset = "UTF-8">```
- - ```<link rel = "stylesheet" type = "text/css" href = "stylefile.css">```
- - ```<script type="text/javascript" src="app.js">```
- - HTML5 Elements: ```html 
- <p>,<div>``` etc...
-```
+ - <meta charset = "UTF-8">
+ - <link rel = "stylesheet" type = "text/css" href = "stylefile.css">
+ - <script type="text/javascript" src="app.js">
+ ```
+ - HTML5 Elements: ```html <p>,<div>``` etc...
+ ```
 #### 2. HTML5 - Attributes
 ```html
  <div class="className"> </div>
@@ -20,9 +20,10 @@
 - Events: onclick, onchange, onmouseover etc...
 - Forms Desciptions: text,pasword, checkbox, radio, submit, textarea etc...
 #### 4. HTML5 - Video and Audio
-html```
+```html
 - <iframe>, src etc...
-- <audio> ```
+- <audio> 
+```
 
 
 #### 5. HTML5 - Geolocation
