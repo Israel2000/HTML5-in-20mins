@@ -8,8 +8,11 @@
  - <link rel = "stylesheet" type = "text/css" href = "stylefile.css">
  - <script type="text/javascript" src="app.js">
  ```
- - HTML5 Elements: ```html <p>,<div>``` etc...
+ - HTML5 Elements: 
+ ```html 
+ <p>,<div> etc...
  ```
+ 
 #### 2. HTML5 - Attributes
 ```html
  <div class="className"> </div>
