@@ -28,12 +28,12 @@
 - <audio> 
 ```
 
-
 #### 5. HTML5 - Geolocation
 - google location api: latitude, longitude
 
 #### 6. HTML5 - Drag & Drop
 - make it easy to copy, reorder, deletion over mouse click.
+
 #### 7. HTML5 - Validation
 - Form validation checks wheather user entered the correct keyword in the input.
 
