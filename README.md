@@ -10,11 +10,12 @@
  ```
  - HTML5 Elements: 
  ```html 
- <p>,<div> etc...
+ <h1>-<h6>, <p>,<div> etc...
  ```
  
 #### 2. HTML5 - Attributes
 ```html
+src="" width="" height=""
  <div class="className"> </div>
  ```
  - class, style(inline), width etc...
